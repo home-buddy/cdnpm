@@ -4,6 +4,8 @@
 [![Circle CI](https://circleci.com/gh/home-buddy/cdnpm.svg?style=shield)](https://circleci.com/gh/home-buddy/cdnpm)
 # cdnpm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/homezen/cdnpm.svg)](https://greenkeeper.io/)
+
 Note: This is obviously not remotely complete.
 
 ### Rationale
