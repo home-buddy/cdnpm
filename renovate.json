@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "timezone": null,
+  "schedule": [],
+  "packageFiles": [],
+  "depTypes": [
+    {
+      "depType": "dependencies",
+      "semanticPrefix": "fix(deps): ",
+      "pinVersions": false
+    },
+    "devDependencies",
+    "optionalDependencies"
+  ],
+  "ignoreDeps": [],
+  "pinVersions": false,
+  "separateMajorReleases": true,
+  "semanticCommits": true,
+  "semanticPrefix": "chore(deps): ",
+  "rebaseStalePrs": true,
+  "prCreation": "immediate",
+  "automerge": "none",
+  "branchName": "renovate/{{depName}}-{{newVersionMajor}}.x",
+  "commitMessage": ":arrow_up: {{depName}} @ {{newVersion}}",
+  "labels": ["renovate", "current iteration"],
+  "assignees": [],
+  "reviewers": []
+}
